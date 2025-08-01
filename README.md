@@ -1,2 +1,1 @@
-#  demo
-dvvv
+Console.Writline("0123456789"):
